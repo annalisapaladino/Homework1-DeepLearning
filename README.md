@@ -1,5 +1,3 @@
-# Homework 1 - Deep Learning 2024
-
 # Deep Learning assignment #1
 
 In this first assignment of the *Deep Learning course*, you will be challenged to reproduce some experiments from the seminal paper that (probably) gave rise to the entire field of *Deep Learning*. Even though the experiments are definitely simple for today’s standards, their setup and execution may kickstart unexpectedly *deep* considerations about the subject.
